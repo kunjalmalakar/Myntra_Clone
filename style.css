@@ -139,3 +139,6 @@ header{
     text-align: end;
     padding: 15px;
 }
+#tochange1,#tochange2,#tochange01,#tochange02{
+    margin-left: 48px;
+}
